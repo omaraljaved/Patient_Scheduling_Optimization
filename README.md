@@ -1,4 +1,4 @@
-## Description:
+### Description:
 In the healthcare analytics domain, effective patient scheduling plays a crucial role in providing quality medical care while optimizing resource usage. This project leverages Genetic Algorithms to address the complexities of patient scheduling, taking into account various factors such as patient preferences, doctor availability, and resource constraints.
 
 The code comprises the following key components:
@@ -19,7 +19,7 @@ The code comprises the following key components:
 
 **8. Results and Visualization:** The project outputs the best scheduling solution, showing the assigned time slots for each patient. Additionally, it displays the best fitness score achieved during optimization.
 
-## Methods Used:
+### Methods Used:
 **1. Selection Method:** Tournament Selection
    
 **2. Crossover:** Single-point Crossover
